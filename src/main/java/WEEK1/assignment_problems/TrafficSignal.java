@@ -1,3 +1,4 @@
+package src.WEEK1;
 public class TrafficSignal {
 
     static void findLongestStreak(String signalLog) {

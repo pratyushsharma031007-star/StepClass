@@ -1,3 +1,4 @@
+package src.WEEK1;
 public class Inventory {
 
     static void analyzeInventory(int[] sectionA, int[] sectionB) {

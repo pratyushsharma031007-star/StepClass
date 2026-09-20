@@ -1,3 +1,4 @@
+package src.WEEK1;
 public class MovieReview {
 
     static void classifyWordLengths(String review) {

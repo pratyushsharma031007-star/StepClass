@@ -1,3 +1,4 @@
+package src.WEEK1;
 public class TypingAccuracy {
 
     static void checkTypingAccuracy(String original, String typed) {
